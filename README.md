@@ -7,6 +7,8 @@ npm i
 npm run dev
 npm run watch
 
+set
+
 ## Grading
 
 # Accessible
@@ -37,4 +39,9 @@ Webpack is used for styles and scripts.
 
 # Application is available on the web via URL;
 
-    Application is hosted on Heroku.
+Application is hosted on Heroku.
+
+
+## How it works?
+
+Whenever you watch or want to remember some kind of media you watch/read, add it to the database with a comment! You can also add your favorite characters to medias you already added to the database.
