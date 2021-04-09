@@ -45,3 +45,7 @@ Application is hosted on Heroku.
 ## How it works?
 
 Whenever you watch or want to remember some kind of media you watch/read, add it to the database with a comment! You can also add your favorite characters to medias you already added to the database.
+
+# Citations
+
+React-Router and React-Bootstrap were used. Some code for the components were used as boilerplate to the current ones, example: The form components were implemented from the code provided for the For row in the react-bootstrap documentation.
