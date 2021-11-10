@@ -7,8 +7,6 @@ npm i
 npm run dev
 npm run watch
 
-set
-
 ## Grading
 
 # Accessible
